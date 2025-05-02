@@ -2,7 +2,7 @@
 
 using std::vector;
 
-class PrimeFactors {
+class PrimeFactor {
 public:
 	vector<int> of(int number) {
 		vector<int> result = {};
