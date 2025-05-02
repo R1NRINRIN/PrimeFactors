@@ -1,3 +1,10 @@
+#include <vector>
+
+using std::vector;
+
 class PrimeFactors {
-	// comment
+public:
+	vector<int> of(int i) {
+		return {};
+	}
 };
